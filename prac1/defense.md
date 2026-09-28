@@ -15,7 +15,7 @@ node ../tools/gost_report.js report.md report.docx
 2. `02_colab_rename.png`: готово, блокнот ПР1_Арутюнян.ipynb.
 3. `03_colab_drive_button.png`: левое меню, значок папки и кнопка подключения Диска.
 4. `04_colab_drive_access.png`: готово, окно «Permit this notebook to access your Google Drive files?».
-5. `05_colab_drive_mounted.png`: папка drive/MyDrive/Colab Notebooks слева.
+5. `05_colab_drive_mounted.png`: готово, папка drive в панели Files.
 6. `06_colab_gpu.png`: «Среда выполнения» → «Сменить среду выполнения» → GPU.
 7. `07_colab_run.png`: готово, ячейка импорта и проверки GPU (в сессии был CPU, список GPU пуст).
 
