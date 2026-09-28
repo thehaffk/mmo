@@ -2,14 +2,9 @@
 
 Тема: введение в Google Colab, работа с нейронными сетями.
 
-## Перед защитой
+## Скриншоты Colab
 
-Скриншоты 1–7 в отчёте это заглушки. Снять в своём Colab и положить с теми же именами
-в `prac1/screenshots/`, затем пересобрать отчёт:
-
-```
-node ../tools/gost_report.js report.md report.docx
-```
+Все семь скриншотов сняты в моём Colab и лежат в `prac1/screenshots/`:
 
 1. `01_colab_new_notebook.png`: готово, новый пустой блокнот Untitled0.ipynb.
 2. `02_colab_rename.png`: готово, блокнот ПР1_Арутюнян.ipynb.
