@@ -12,7 +12,7 @@ node ../tools/gost_report.js report.md report.docx
 ```
 
 1. `01_colab_new_notebook.png`: главная Colab, меню «Файл» → «Создать блокнот».
-2. `02_colab_rename.png`: блокнот, переименованный в ПР1_Арутюнян.
+2. `02_colab_rename.png`: готово, блокнот ПР1_Арутюнян.ipynb.
 3. `03_colab_drive_button.png`: левое меню, значок папки и кнопка подключения Диска.
 4. `04_colab_drive_access.png`: окно «Разрешить доступ к файлам на Google Диске?».
 5. `05_colab_drive_mounted.png`: папка drive/MyDrive/Colab Notebooks слева.
