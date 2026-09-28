@@ -16,7 +16,7 @@ node ../tools/gost_report.js report.md report.docx
 3. `03_colab_drive_button.png`: готово, панель Files до подключения, значок Диска на панели инструментов.
 4. `04_colab_drive_access.png`: готово, окно «Permit this notebook to access your Google Drive files?».
 5. `05_colab_drive_mounted.png`: готово, папка drive в панели Files.
-6. `06_colab_gpu.png`: «Среда выполнения» → «Сменить среду выполнения» → GPU.
+6. `06_colab_gpu.png`: готово, Runtime → Change runtime type, выбран T4 GPU. Бесплатно доступны CPU, T4 и TPU v5e-1.
 7. `07_colab_run.png`: готово, ячейка импорта и проверки GPU (в сессии был CPU, список GPU пуст).
 
 ## Рассказ на минуту
