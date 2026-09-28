@@ -30,7 +30,7 @@ topic: Введение в Google Colab. Работа с нейронными с
 
 ![Рисунок 3 — Кнопка подключения Google Диска](screenshots/03_colab_drive_button.png)
 
-![Рисунок 4 — Подтверждение доступа к Google Диску](screenshots/04_colab_drive_access.png)
+![Рисунок 4 — Запрос доступа к Google Диску «Permit this notebook to access your Google Drive files?»](screenshots/04_colab_drive_access.png)
 
 ![Рисунок 5 — Подключённый Диск в левом меню](screenshots/05_colab_drive_mounted.png)
 
