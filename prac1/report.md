@@ -22,7 +22,7 @@ topic: Введение в Google Colab. Работа с нейронными с
 
 Для работы нужен аккаунт Google. На странице https://colab.research.google.com новый блокнот создаётся через меню «Файл» → «Создать блокнот» (рисунок 1). Блокнот сразу можно переименовать, щёлкнув по названию (рисунок 2).
 
-![Рисунок 1 — Создание нового блокнота в Google Colab](screenshots/01_colab_new_notebook.png)
+![Рисунок 1 — Новый пустой блокнот Untitled0.ipynb в Google Colab](screenshots/01_colab_new_notebook.png)
 
 ![Рисунок 2 — Переименованный блокнот](screenshots/02_colab_rename.png)
 
