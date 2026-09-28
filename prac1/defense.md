@@ -17,7 +17,7 @@ node ../tools/gost_report.js report.md report.docx
 4. `04_colab_drive_access.png`: окно «Разрешить доступ к файлам на Google Диске?».
 5. `05_colab_drive_mounted.png`: папка drive/MyDrive/Colab Notebooks слева.
 6. `06_colab_gpu.png`: «Среда выполнения» → «Сменить среду выполнения» → GPU.
-7. `07_colab_run.png`: выполненные ячейки импорта, проверки GPU и загрузки MNIST.
+7. `07_colab_run.png`: готово, ячейка импорта и проверки GPU (в сессии был CPU, список GPU пуст).
 
 ## Рассказ на минуту
 
@@ -28,7 +28,8 @@ node ../tools/gost_report.js report.md report.docx
 
 ## Числа
 
-- Версии: Python 3.12, TensorFlow 2.21, Keras 3.15, NumPy 2.5, scikit-learn 1.9.
+- Версии локально: Python 3.12, TensorFlow 2.21, Keras 3.15, NumPy 2.5, scikit-learn 1.9.
+- Версии в Colab (рисунок 7): TensorFlow 2.20.0, scikit-learn 1.6.1, NumPy 2.1.3, pandas 2.2.3; GPU не включён, список пуст.
 - MNIST: 70 000 изображений 28 на 28, разбиение 60 000 / 10 000, random_state = 1.
 - X_train[123]: цифра 7.
 - Классы: от 5383 пятёрок до 6691 единицы.
