@@ -28,7 +28,7 @@ topic: Введение в Google Colab. Работа с нейронными с
 
 Блокноты сохраняются на Google Диск в папку Colab Notebooks. Чтобы блокнот мог читать и записывать файлы Диска, Диск подключается: в левом меню нажимается значок папки, открывается панель Files, в ней нажимается значок папки с логотипом Диска (рисунок 3), и доступ подтверждается (рисунок 4). После этого в панели Files рядом с папкой sample_data появляется папка drive (рисунок 5), внутри неё лежит MyDrive с папкой Colab Notebooks.
 
-![Рисунок 3 — Кнопка подключения Google Диска](screenshots/03_colab_drive_button.png)
+![Рисунок 3 — Панель Files до подключения Диска: третий значок на панели инструментов подключает Диск, в списке пока только sample_data](screenshots/03_colab_drive_button.png)
 
 ![Рисунок 4 — Запрос доступа к Google Диску «Permit this notebook to access your Google Drive files?»](screenshots/04_colab_drive_access.png)
 
