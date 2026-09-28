@@ -12,7 +12,7 @@
 4. `04_colab_drive_access.png`: готово, окно «Permit this notebook to access your Google Drive files?».
 5. `05_colab_drive_mounted.png`: готово, папка drive в панели Files.
 6. `06_colab_gpu.png`: готово, Runtime → Change runtime type, выбран T4 GPU. Бесплатно доступны CPU, T4 и TPU v5e-1.
-7. `07_colab_run.png`: готово, ячейка импорта и проверки GPU (в сессии был CPU, список GPU пуст).
+7. `07_colab_run.png`: готово, ячейка импорта и проверки GPU на среде T4, найден GPU:0.
 
 ## Рассказ на минуту
 
@@ -24,7 +24,7 @@
 ## Числа
 
 - Версии локально: Python 3.12, TensorFlow 2.21, Keras 3.15, NumPy 2.5, scikit-learn 1.9.
-- Версии в Colab (рисунок 7): TensorFlow 2.20.0, scikit-learn 1.6.1, NumPy 2.1.3, pandas 2.2.3; GPU не включён, список пуст.
+- Версии в Colab (рисунок 7): TensorFlow 2.20.0, scikit-learn 1.6.1, NumPy 2.1.3, pandas 2.2.3; на среде T4 TensorFlow видит /physical_device:GPU:0. На CPU-среде по умолчанию список GPU пуст.
 - MNIST: 70 000 изображений 28 на 28, разбиение 60 000 / 10 000, random_state = 1.
 - X_train[123]: цифра 7.
 - Классы: от 5383 пятёрок до 6691 единицы.
