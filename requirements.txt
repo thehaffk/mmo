@@ -5,7 +5,7 @@ scipy==1.18.1
 matplotlib==3.11.2
 seaborn==0.13.2
 jupyter==1.1.1
-nbconvert==7.17.1
+nbconvert==7.17.2
 ipykernel==7.3.0
 torch==2.14.0
 torchvision==0.29.0
